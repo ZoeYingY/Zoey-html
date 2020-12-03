@@ -1,0 +1,15 @@
+.jumbotron {
+    background-color:#9d9d9d;
+    margin-top: 50px;
+    text-decoration-color: black;
+}
+
+#table{
+    margin: 0 auto;
+    width: 90%;
+}
+
+footer{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
